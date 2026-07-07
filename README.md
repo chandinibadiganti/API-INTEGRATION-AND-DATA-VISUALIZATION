@@ -30,5 +30,9 @@ Overall, this project successfully demonstrates the complete workflow of collect
 
 
 ## OUTPUTS:
+
+### Weather Data Visualization Dashboard
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2b8dd785-e566-42e7-a81b-c81988058810" />
+
+### Individual Weather Parameter Analysis
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3de8dc02-d5c4-4b13-b404-8f987b11b9b3" />
